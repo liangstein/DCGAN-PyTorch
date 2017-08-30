@@ -10,3 +10,8 @@ This is the DCGAN implemented by PyTorch. The training dataset is CelebA ["http:
   <img src="https://github.com/liangstein/DCGAN-PyTorch/blob/master/generated_examples.png" width="400"/>
 </p>
 
+
+After training for 113 epochs, the generated images looks a bit better:
+<p align="middle">
+  <img src="https://github.com/liangstein/DCGAN-PyTorch/blob/master/generated_examples2.png" width="400"/>
+</p>
